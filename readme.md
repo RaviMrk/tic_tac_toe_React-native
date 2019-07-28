@@ -2,11 +2,11 @@
 Tic Tac Toe game 
 
 ## ScreenShots
-<img src="screenshots/Screenshot_2019-07-28-12-01-14-86.png" width=150px />
+<img src="screenshots/Screenshot_2019-07-28-12-01-14-86.png" width=150px />  <img src="screenshots/Screenshot_2019-07-28-12-01-08-23.png" width=150px />  <img src="screenshots/Screenshot_2019-07-28-12-01-42-65.png" width=150px />
 
-<img src="screenshots/Screenshot_2019-07-28-12-01-08-23.png" width=150px />
 
-<img src="screenshots/Screenshot_2019-07-28-12-01-42-65.png" width=150px />
+
+
 
 
 
